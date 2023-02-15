@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://d606d93709428f5c.jomoxc.com:9382/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17_Pro/9.3.1.0/cn/20230115194440/e8acbce5/update.zip?r=HgUiGitCVUZRDBMPHwkwNFgcMwMiDVQKWAhOJAEaLyYXAzNFHhQDBFJKDAcBEjdgQS4GGDdXQ0cES1BMWEchP1lDZlhrSEtYAlRYVlxccn4TSTcJOhsfXBgQEQYJHCd%2FDBgmGQEzBDscFFhYFQQMCwwsYA%3D%3D&xcid=304b00cfcb654349b66fe1dc9972141d&max_age=7776000&xcsched=3780089462&xclogid=10623381512273293173&xauzkey=mngx_705c867e95847a0ec7bc043df4c47fa5_1679027499&f_ver=v1&limit_rate=3670016
   ROM_NAME: Flyme
-  BUILD_TYPE: a
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
